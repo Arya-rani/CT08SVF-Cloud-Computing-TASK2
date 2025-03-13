@@ -58,6 +58,19 @@ Steps for AWS CloudWatch
 
 
 **Output:**
+![Image](https://github.com/user-attachments/assets/4ce45d4e-825a-4341-9564-4570f8980f38)
+
+![Image](https://github.com/user-attachments/assets/b05c31d8-0965-48ef-a879-ffb7e2414e9e)
+
+![Image](https://github.com/user-attachments/assets/4335a661-67b1-47de-b27c-be0c1a0aa92a)
+
+![Image](https://github.com/user-attachments/assets/7706ee7c-cca2-457a-811e-28fd0b3e935d)
+
+![Image](https://github.com/user-attachments/assets/4f08662f-4872-418c-ae4e-e174e674c8d9)
+
+![Image](https://github.com/user-attachments/assets/70413408-b643-427f-b4f5-9da3bee89fd6)
+
+![Image](https://github.com/user-attachments/assets/d1a2b66c-71a8-4417-a4ea-a710adbae4d9)
 
   
 

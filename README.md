@@ -1,20 +1,19 @@
 # CT08SVF-Cloud-Computing-TASK2
+**COMPANY**: CODTECH IT SOLUTIONS
 
-COMPANY: CODTECH IT SOLUTIONS
+**NAME**: ARYA RANI
 
-NAME: ARYA RANI
+**INTERN ID**: CT08SVF
 
-INTERN ID: CT08SVF
+**DOMAIN**: CLOUD COMPUTING
 
-DOMAIN: CLOUD COMPUTING
+**DURATION**: 4 WEEKS
 
-DURATION: 4 WEEKS
+**MENTOR**: NEELA SANTOSH 
 
-MENTOR: NEELA SANTOSH
+This repository contains all files and documentation related to the completion of the 2nd task of the cloud computing internship at CODTECH IT SOLUTIONS PVT. LTD., submitted by ARYA RANI (Intern ID: CT08SVF).
 
-This repository contains all files and documentation related to the completion of the 1st task of the cloud computing internship at CODTECH IT SOLUTIONS PVT. LTD., submitted by ARYA RANI (Intern ID: CT08SVF).
-
-DESCRIPTION OF 2nd TASK
+**DESCRIPTION OF 2nd TASK**
 
 Steps for AWS CloudWatch
 1. Log in to the AWS Management Console
